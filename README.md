@@ -1,0 +1,2 @@
+# logit
+Quick logging function
